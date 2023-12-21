@@ -1,0 +1,4 @@
+body {background-image: url('./pics/pexels-lukas-1352278.jpg'); background-size: cover;background-attachment: fixed;}
+h1 {font-family:fantasy; font-size: 250%;color: rgba(237, 216, 208, 0.821); 
+ ;text-align: center;}
+.yum {text-align:center ;font-family:fantasy; font-size: 250%; color:rgb(63, 39, 23);border: 2px solid rgb(67, 42, 20);background-color: rgba(237, 216, 208, 0.821);}
